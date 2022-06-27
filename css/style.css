@@ -79,7 +79,7 @@ main {
     position: absolute;
     top: 8vh;
     right: 0;
-    width: 25vw;
+    width: 100vw;
     height: 92vh;
     background: linear-gradient(
       43deg,
