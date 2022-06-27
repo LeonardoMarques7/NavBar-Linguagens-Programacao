@@ -103,6 +103,21 @@ a:hover {
   color: #000000;
 }
 
+.text-link {
+  color: #000000;
+  box-shadow: 2px 3px 2px #e09c9c;
+  text-decoration: none;
+  border: 1px #ffcece;
+  border-style: solid;
+  border-radius: 4px;
+  background-color: #ffe0e0;
+  padding: 2px;
+}
+
+.text-link:hover {
+  color: #5046a5;
+}
+
 #voltar{
   color: #000000;
   text-decoration: none;

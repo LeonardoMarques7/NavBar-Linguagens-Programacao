@@ -31,7 +31,7 @@ nav {
   font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
   background: linear-gradient(
     43deg,
-    rgba(165, 165, 165, 0.2),
+    rgba(165, 165, 165, 0.1),
     rgb(109, 109, 109, 0.2),
     rgb(56, 56, 56, 0.2)
   );
@@ -79,11 +79,11 @@ main {
     position: absolute;
     top: 8vh;
     right: 0;
-    width: 100%;
+    width: 25vw;
     height: 92vh;
     background: linear-gradient(
       43deg,
-      rgba(165, 165, 165, 0.2),
+      rgba(160, 160, 160, 0.1),
       rgb(109, 109, 109, 0.2),
       rgb(56, 56, 56, 0.2)
     );

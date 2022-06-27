@@ -81,7 +81,7 @@ p {
 }
 
 .links1 {
-  box-shadow: 3px 3px 3px #0d0030;
+  box-shadow: 3px 3px 3px #160052;
   border: 1px #bea7ff;
   border-style: solid;
   border-radius: 4px;
@@ -94,11 +94,25 @@ p {
 }
 
 .links1:hover {
-  color: #5046a5;
+  color: #fff;
 }
 
 a:hover{
-  color: #1a1397;
+  color: #bea7ff;
+}
+
+.text-link {
+  color: #000;
+  box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.32);
+  border: 1px #bea7ff;
+  border-style: solid;
+  border-radius: 4px;
+  background-color: #bea7ff;
+  padding: 2px;
+}
+
+.text-link:hover {
+  color: #ffffff;
 }
 
 #voltar {
